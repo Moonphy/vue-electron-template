@@ -1,8 +1,5 @@
 {
-  "author": "Muhammad Ubaid Raza <mubaidr@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/mubaidr/vue-electron-template/issues"
-  },
+  "author": "cbs <linminghui@cloudwalk.com>",
   "dependencies": {
     "@electron/remote": "^1.1.0",
     "bulma-fluent": "^0.4.3",
@@ -68,9 +65,9 @@
   },
   "license": "MIT",
   "main": "./dist/main.js",
-  "name": "vue-electron-template",
+  "name": "cbs-client",
   "private": true,
-  "productName": "Vue Electron Template",
+  "productName": "cbs client",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mubaidr/vue-electron-template.git"
