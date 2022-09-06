@@ -5,7 +5,7 @@
         <br />
         <div class="block has-text-centered">
           <figure class="image is-128x128">
-            <img alt="Placeholder image" src="../../../_icons/512pxblue.png" />
+            <img alt="Placeholder image" src="../../../_icons/icon.png" />
           </figure>
         </div>
         <div class="content has-text-centered">
